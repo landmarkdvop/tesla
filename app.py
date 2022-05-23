@@ -4,4 +4,4 @@ print ('chidi' )
 print ('grace' )
 print ( 'Glory')
 # echo simon
-
+# bugs remove
