@@ -4,4 +4,6 @@ print ('chidi' )
 print ('grace' )
 print ( 'Glory')
 # echo simon
+#bug remove please review
+
 
