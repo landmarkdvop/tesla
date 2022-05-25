@@ -3,4 +3,5 @@ deploy python apps
 deployment5 mater
 deploy in the dev env
 deployment4
-deploy to staging 
+deploy to staging
+deployment completed 
