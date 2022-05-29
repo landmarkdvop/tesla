@@ -9,3 +9,4 @@ print ( 'Glory')
 #bug remove please review
 print ( var services automated )
 print  ( hello $ your car need servicing )
+bug remove
